@@ -1,6 +1,6 @@
 ![the matrix has you...](https://github.com/sky-bro/sky-bro/blob/master/images/the-matrix-has-you.gif)
 
-[<img src="https://spotify-readme-ky13.vercel.app/api/spotify-playing" alt="Kyle Listening" width="350" />](https://open.spotify.com/user/22sit26j5lamlvm3sgikxwuoq)
+[<img src="https://spotify-readme-ky13.vercel.app/api/spotify" alt="Kyle Listening" width="350" />](https://open.spotify.com/user/22sit26j5lamlvm3sgikxwuoq)
 
 <details>
   <summary>Stats</summary>
