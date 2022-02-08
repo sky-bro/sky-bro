@@ -1,0 +1,7 @@
+* It's k4i
+
+- new to this and that
+- love sharing and learning stuff
+- love ricing: [[https://github.com/sky-bro/.dotfiles][dotfiles here]]
+- blogging at [[https://k4i.top/][k4i.top]]
+- getting started with EMACS and LISP
