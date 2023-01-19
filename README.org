@@ -1,7 +1,7 @@
 * It's k4i
 
-- new to this and that
-- love sharing and learning stuff
+[[./images/the-matrix-has-you.gif]]
+
 - love ricing: [[https://github.com/sky-bro/.dotfiles][dotfiles here]]
-- blogging at [[https://k4i.top/][k4i.top]]
-- getting started with EMACS and LISP
+- blogging at [[https://k4i.top/][k4i.top]], source code: [[https://github.com/sky-bro/blog-src][blog-src]]
+- learning Emacs & Lisp
